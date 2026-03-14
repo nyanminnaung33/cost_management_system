@@ -1,2 +1,11 @@
-# cost_management_system
-Cost management system
+
+  # Cost Management System UI
+
+  This is a code bundle for Cost Management System UI. The original project is available at https://www.figma.com/design/sieicFXS4CDxiHd7FadtGA/Cost-Management-System-UI.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
